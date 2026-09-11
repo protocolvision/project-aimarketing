@@ -6,6 +6,8 @@ Institute brand, and is built to be applied by a person **or** an LLM agent.
 
 **Live:** https://npc.here.now/protocolintstitutebrandkit/
 
+> Moved to `protocolvision/project-aimarketing` on 2026-09-11 from `protocolinstitute-brandkit/` in `rafaeldavid/protocolized-publications`, history intact (10 commits). The workshop repo `protocolvision/workshop-kitkraft` links here as the S2 example and a bridge target.
+
 ## What's here
 
 | File | For | Purpose |
