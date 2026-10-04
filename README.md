@@ -46,3 +46,7 @@ Use `--pi-*` tokens and `.pi-*` classes only; never raw hex/px.
 ## Sources
 Built from `DESIGN-protocolized.md`, https://protocol-institute.org/, and
 https://protocolized.summerofprotocols.com/.
+
+## Projects
+
+- [`protocols-for-business-seo/`](protocols-for-business-seo/): search and distribution strategy for the Protocols for Business research group (October 2026).
