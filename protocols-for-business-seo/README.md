@@ -2,6 +2,8 @@
 
 4 October 2026 · Rafael Fernández · Living version: [Claude doc](https://claude.ai/code/artifact/c74784f8-d70c-48e6-a9ee-80f12ff7690f) (private until shared)
 
+See also: [where the site should live](domain-recommendation.md).
+
 The group cannot win Google on its own vocabulary yet, because nobody searches for it. It can win the incident and safety topics people already search, attach its vocabulary to those pages, and move readers through Substack and LinkedIn networks it already sits in.
 
 ## 1. The problem: search shows other people for our words
